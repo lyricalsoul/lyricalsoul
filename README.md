@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lyricalsoul (a.k.a. [@blueslimee](github.com/blueslimee) - lost my 2FA key for that account. oops!)
+- 👋 Hi, I’m @lyricalsoul (a.k.a. [@blueslimee](https://github.com/blueslimee) - lost my 2FA key for that account. oops!)
 - 👀 I’m interested in Swift, Golang and Rust
 - 🌱 I’m currently learning Rust 🦀
 - 📫 How to reach me:
