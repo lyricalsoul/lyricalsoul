@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @lyricalsoul (a.k.a. [@blueslimee](https://github.com/blueslimee) - lost my 2FA key for that account. oops!)
+- 👋 Hi, I’m @lyricalsoul (a.k.a. [@blueslimee](https://github.com/blueslimee) - lost my 2FA backup code for that account. oops!)
 - 👀 I’m interested in Swift, Golang and Rust
-- 🌱 I’m currently learning Rust 🦀
+- 🌱 I’m currently learning Erlang
+- 🥁 I'm actively developing chatbots (such as lastgram - a trusted last.fm bot for telegram) and other related apps
 - 📫 How to reach me:
   - through Twitter ([@kuntmermaid](https://twitter.com/kuntmermaid)),
-  - through Discord ([tha#0511](https://discord.com/users/918911149595045959)),
+  - through Discord ([blueslimee#0511](https://discord.com/users/918911149595045959)),
+  - through Telegram ([@mcthaa](https://t.me/mcthaa)),
   - or through e-mail (`lyricalsoul (at) protonmail (dot) com`)
 
 <!---
