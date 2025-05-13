@@ -1,9 +1,10 @@
 ## hello 👋
 - 💁 I’m `lyricalsoul` (*a.k.a. [@blueslimee](https://github.com/blueslimee) - lost my 2FA backup code for that account. Oops!*);
 - 👀 I’m interested in Swift, TypeScript, Elixir and Rust;
-- 🌱 I focus on backend development, specially on high-availability applications;
-- 🙋 I speak Portuguese, English, Spanish and I am trying to learn Korean;
-- 🥁 I develop random stuff - most of the times chatbots (such as [lastgram](https://github.com/musicorum-app/lastgram) - the last.fm bot for telegram) and other cool stuff (such as [ditto](https://github.com/musicorum-app/ditto), a high-speed service for image generation);
+- 🌱 I focus on back-end development - especially on high-availability applications;
+- 🙋 I speak Portuguese, English, Spanish, French and I am always learning some other languauge;
+- 🏫 Currently attending [Bowdoin College](https://bowdoin.edu);
+- 🥁 I develop random stuff - most of the times chatbots (such as [lastgram](https://github.com/musicorum-app/lastgram) - the last.fm bot for telegram) and other cool things (such as [ditto](https://github.com/musicorum-app/ditto), a high-speed service for image generation);
 - 📫 How to reach me:
   - through Discord ([blueslimee#0511](https://discord.com/users/918911149595045959)),
   - or through e-mail (`martins.renanr (at) gmail (dot) com`)
